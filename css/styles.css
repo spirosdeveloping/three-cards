@@ -1,0 +1,114 @@
+h1{
+  color:hsl(179, 62%, 43%);
+  font-size: 25px;
+  position: relative;
+  left: 20px;
+  top: 20px;
+}
+h2{
+color: hsl(71, 73%, 54%);
+font-size: 20px;
+position: relative;
+left: 20px;
+top: 20px;
+}
+.t{
+  position: relative;
+  left: 20px;
+  top: 20px;
+  width: 100%;
+  opacity: 30%;
+}
+.top-container{
+  position: relative;
+  left: 450px;
+  top: 150px;
+  height:200px;
+  width: 600px;
+  border-style:none;
+  box-shadow: 2px 2px 2px 2px hsl(204, 43%, 93%);
+
+}
+.button{
+  position: relative;
+  height: 45px;
+  width: 200px;
+  left: 40px;
+  bottom: 20px;
+
+  color: white;
+  background-color: hsl(71, 73%, 54%);
+}
+
+.left-container{
+
+background-color:  hsl(179, 62%, 43%);
+  position: relative;
+  height: 230px;
+  width: 300px;
+  border-style:none;
+  box-shadow: 2px 2px 2px 2px hsl(204, 43%, 93%);
+  top: 135px;
+left: 450px
+
+
+}
+.monthly{
+  color: white;
+  position: relative;
+  left: 30px;
+  top: 30px;
+
+}
+.left{
+  color: white;
+  position: relative;
+  left: 90px;
+  bottom: 35px;
+  width: 40%;
+  opacity: 60%;
+}
+.full{
+  color: white;
+  position: relative;
+  left: 30px;
+  bottom: 35px;
+  line-height: 0.5;
+  opacity: 80%;
+}
+
+.dollar{
+  font-family: sans-serif;
+  color: white;
+position: relative;
+top: 20px;
+left: 30px;
+font-size: 30px;
+}
+
+.right-container{
+
+  position: relative;
+  height: 230px;
+  width: 300px;
+  left: 750px;
+  bottom: 110px;
+  border-style:none;
+  box-shadow: 2px 2px 2px 2px hsl(204, 43%, 93%);
+  background-color:#48D1CC;
+
+}
+.tutorials{
+  opacity: 70%;
+  position: relative;
+  color: white;
+  top: 30px;
+left: 30px;
+  width: 60%;
+}
+.why{
+  color: white;
+  position: relative;
+  top:30px;
+left: 30px;
+}
